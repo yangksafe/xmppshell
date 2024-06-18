@@ -1,18 +1,34 @@
-Ò»¸ö¼òµ¥µÄxmpp»úÆ÷ÈË 
+ä¸€ä¸ªç®€å•çš„xmppæœºå™¨äºº 
 
-shellÔ¶³Ì¹ÜÀí¹¤¾ß
+shellè¿œç¨‹ç®¡ç†å·¥å…·
 
-Ö÷ÒªÓÃÓÚ¹ÜÀíÎÒµÄ·şÎñÆ÷
-·½±ãÔÚËùÓĞ·şÎñÆ÷ÉÏÅúÁ¿Ö´ĞĞÃüÁî
+ä¸»è¦ç”¨äºç®¡ç†æˆ‘çš„æœåŠ¡å™¨
 
-Ä¿Ç°µÄ¹¦ÄÜ
-¡ª¡ª
-×Ô¶¯Á¬½Óµ½xmpp·şÎñÆ÷
-ÃÜÂëÑéÖ¤¹¦ÄÜ
-½ÓÊÕÒÔÑéÖ¤ÓÃ»§µÄÏûÏ¢
-×÷ÎªÖ´ĞĞshellÃüÁîÖ´ĞĞ
-¡ª¡ª
-ÔËĞĞÔÚpython3ÉÏ
+æ–¹ä¾¿åœ¨æ‰€æœ‰æœåŠ¡å™¨ä¸Šæ‰¹é‡æ‰§è¡Œå‘½ä»¤
+
+ç›®å‰çš„åŠŸèƒ½
+
+â€”â€”
+
+è‡ªåŠ¨è¿æ¥åˆ°xmppæœåŠ¡å™¨
+
+å¯†ç éªŒè¯åŠŸèƒ½
+
+æ¥æ”¶ä»¥éªŒè¯ç”¨æˆ·çš„æ¶ˆæ¯
+
+ä½œä¸ºæ‰§è¡Œshellå‘½ä»¤æ‰§è¡Œ
+
+â€”â€”
+
+è¿è¡Œåœ¨python3ä¸Š
 
 python -m pip install urllib3==1.25.11
+
+![Image text](https://github.com/yangksafe/xmppshell/blob/main/Screenshot_20240619_050835.jpg)
+
+![Image text](https://github.com/yangksafe/xmppshell/blob/main/Screenshot_20240619_050927.jpg)
+
+![Image text](https://github.com/yangksafe/xmppshell/blob/main/Screenshot_20240619_051029.jpg)
+
+![Image text](https://github.com/yangksafe/xmppshell/blob/main/Screenshot_20240619_051313.jpg)
 
